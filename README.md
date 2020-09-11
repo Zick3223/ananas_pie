@@ -1,3 +1,5 @@
 # ananas_pie
-Hello, this is recipe anans_pie
-Good luck!
+
+Hello! 
+Inside this brunch is the recipe for a great pineapple pie! 
+Good luck with your cooking!
