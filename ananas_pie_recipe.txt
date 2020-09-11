@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+esche chto-to eshe ????
+myka 2 kg 
+sugar 0.5 kg
+ananas 2 kg 
+chto-to eshe ????
+=======
+esche chto-to eshe ????
+>>>>>>> master
